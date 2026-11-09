@@ -1,0 +1,2791 @@
+{
+ "packs": [
+  {
+   "slug": "aura-i",
+   "name": "Aura I",
+   "family": "glow",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Aurora",
+     "file": "Aura I 01 - Aurora",
+     "secs": 10,
+     "bytes": {
+      "prores": 136736379,
+      "mp4": 26527294,
+      "still": 3208405
+     }
+    },
+    {
+     "n": 2,
+     "label": "Bioluminescent",
+     "file": "Aura I 02 - Bioluminescent",
+     "secs": 10,
+     "bytes": {
+      "prores": 136738681,
+      "mp4": 26633726,
+      "still": 3418773
+     }
+    },
+    {
+     "n": 3,
+     "label": "Cobalt",
+     "file": "Aura I 03 - Cobalt",
+     "secs": 10,
+     "bytes": {
+      "prores": 136716978,
+      "mp4": 26376577,
+      "still": 3331644
+     }
+    },
+    {
+     "n": 4,
+     "label": "Copper",
+     "file": "Aura I 04 - Copper",
+     "secs": 10,
+     "bytes": {
+      "prores": 136696816,
+      "mp4": 25955220,
+      "still": 3183937
+     }
+    },
+    {
+     "n": 5,
+     "label": "Copper · Halftone",
+     "file": "Aura I 05 - Copper · Halftone",
+     "secs": 10,
+     "bytes": {
+      "prores": 136381564,
+      "mp4": 26159937,
+      "still": 4034580
+     }
+    },
+    {
+     "n": 6,
+     "label": "Copper · Wide Flutes",
+     "file": "Aura I 06 - Copper · Wide Flutes",
+     "secs": 10,
+     "bytes": {
+      "prores": 136701193,
+      "mp4": 26193363,
+      "still": 3189585
+     }
+    },
+    {
+     "n": 7,
+     "label": "Crimson",
+     "file": "Aura I 07 - Crimson",
+     "secs": 10,
+     "bytes": {
+      "prores": 136724517,
+      "mp4": 26277775,
+      "still": 3293374
+     }
+    },
+    {
+     "n": 8,
+     "label": "Crimson · Bloom",
+     "file": "Aura I 08 - Crimson · Bloom",
+     "secs": 10,
+     "bytes": {
+      "prores": 136719119,
+      "mp4": 25650514,
+      "still": 3336690
+     }
+    },
+    {
+     "n": 9,
+     "label": "Deep Sea",
+     "file": "Aura I 09 - Deep Sea",
+     "secs": 10,
+     "bytes": {
+      "prores": 136750840,
+      "mp4": 26369760,
+      "still": 3418058
+     }
+    },
+    {
+     "n": 10,
+     "label": "Ember",
+     "file": "Aura I 10 - Ember",
+     "secs": 10,
+     "bytes": {
+      "prores": 136752396,
+      "mp4": 26425455,
+      "still": 3259829
+     }
+    }
+   ],
+   "zip": {
+    "prores": 1400596528,
+    "mp4": 296247606
+   }
+  },
+  {
+   "slug": "current",
+   "name": "Current",
+   "family": "flow",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Original",
+     "file": "Current 01 - Original",
+     "secs": 20,
+     "bytes": {
+      "prores": 582753193,
+      "mp4": 51092303,
+      "still": 3298360
+     }
+    },
+    {
+     "n": 2,
+     "label": "Ember",
+     "file": "Current 02 - Ember",
+     "secs": 20,
+     "bytes": {
+      "prores": 582556033,
+      "mp4": 51739213,
+      "still": 3316992
+     }
+    },
+    {
+     "n": 3,
+     "label": "Abyss",
+     "file": "Current 03 - Abyss",
+     "secs": 20,
+     "bytes": {
+      "prores": 581928712,
+      "mp4": 51345943,
+      "still": 3399661
+     }
+    },
+    {
+     "n": 4,
+     "label": "Rose",
+     "file": "Current 04 - Rose",
+     "secs": 20,
+     "bytes": {
+      "prores": 582291550,
+      "mp4": 51669271,
+      "still": 3301265
+     }
+    },
+    {
+     "n": 5,
+     "label": "Jade",
+     "file": "Current 05 - Jade",
+     "secs": 20,
+     "bytes": {
+      "prores": 582229125,
+      "mp4": 50413345,
+      "still": 3273424
+     }
+    },
+    {
+     "n": 6,
+     "label": "Aurora",
+     "file": "Current 06 - Aurora",
+     "secs": 20,
+     "bytes": {
+      "prores": 582298517,
+      "mp4": 51166100,
+      "still": 3288769
+     }
+    },
+    {
+     "n": 7,
+     "label": "Sunset",
+     "file": "Current 07 - Sunset",
+     "secs": 20,
+     "bytes": {
+      "prores": 582222687,
+      "mp4": 50720996,
+      "still": 3286430
+     }
+    },
+    {
+     "n": 8,
+     "label": "Steel",
+     "file": "Current 08 - Steel",
+     "secs": 20,
+     "bytes": {
+      "prores": 582171981,
+      "mp4": 50921115,
+      "still": 3196263
+     }
+    },
+    {
+     "n": 9,
+     "label": "Gold",
+     "file": "Current 09 - Gold",
+     "secs": 20,
+     "bytes": {
+      "prores": 581980220,
+      "mp4": 51581468,
+      "still": 3337526
+     }
+    },
+    {
+     "n": 10,
+     "label": "Neon",
+     "file": "Current 10 - Neon",
+     "secs": 20,
+     "bytes": {
+      "prores": 582206608,
+      "mp4": 51744600,
+      "still": 3280812
+     }
+    }
+   ],
+   "zip": {
+    "prores": 5855621422,
+    "mp4": 545376822
+   }
+  },
+  {
+   "slug": "dapple",
+   "name": "Dapple",
+   "family": "light",
+   "previewOnly": true,
+   "loops": [
+    {
+     "n": 1,
+     "label": "Original",
+     "file": "Dapple 01 - Original",
+     "secs": 10,
+     "bytes": {
+      "prores": 136705628,
+      "mp4": 0,
+      "still": 2958265
+     }
+    },
+    {
+     "n": 2,
+     "label": "Tide",
+     "file": "Dapple 02 - Tide",
+     "secs": 10,
+     "bytes": {
+      "prores": 136791526,
+      "mp4": 0,
+      "still": 3460493
+     }
+    },
+    {
+     "n": 3,
+     "label": "Indigo Flame",
+     "file": "Dapple 03 - Indigo Flame",
+     "secs": 10,
+     "bytes": {
+      "prores": 136747441,
+      "mp4": 0,
+      "still": 3540911
+     }
+    },
+    {
+     "n": 4,
+     "label": "Rosewater",
+     "file": "Dapple 04 - Rosewater",
+     "secs": 10,
+     "bytes": {
+      "prores": 136758254,
+      "mp4": 0,
+      "still": 3375853
+     }
+    },
+    {
+     "n": 5,
+     "label": "Oxblood",
+     "file": "Dapple 05 - Oxblood",
+     "secs": 10,
+     "bytes": {
+      "prores": 136800431,
+      "mp4": 0,
+      "still": 3449932
+     }
+    },
+    {
+     "n": 6,
+     "label": "Lapis Gold",
+     "file": "Dapple 06 - Lapis Gold",
+     "secs": 10,
+     "bytes": {
+      "prores": 136782063,
+      "mp4": 0,
+      "still": 3494862
+     }
+    },
+    {
+     "n": 7,
+     "label": "Glacier",
+     "file": "Dapple 07 - Glacier",
+     "secs": 10,
+     "bytes": {
+      "prores": 136720322,
+      "mp4": 0,
+      "still": 3296300
+     }
+    },
+    {
+     "n": 8,
+     "label": "Infrared",
+     "file": "Dapple 08 - Infrared",
+     "secs": 10,
+     "bytes": {
+      "prores": 136821261,
+      "mp4": 0,
+      "still": 3622165
+     }
+    },
+    {
+     "n": 9,
+     "label": "Verdant",
+     "file": "Dapple 09 - Verdant",
+     "secs": 10,
+     "bytes": {
+      "prores": 136704475,
+      "mp4": 0,
+      "still": 3413970
+     }
+    },
+    {
+     "n": 10,
+     "label": "Copper",
+     "file": "Dapple 10 - Copper",
+     "secs": 10,
+     "bytes": {
+      "prores": 136768649,
+      "mp4": 0,
+      "still": 3496293
+     }
+    }
+   ],
+   "zip": {
+    "prores": 1367600050,
+    "mp4": 0
+   }
+  },
+  {
+   "slug": "dot-globe",
+   "name": "Dot Globe",
+   "family": "form",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Original",
+     "file": "Dot Globe 01 - Original",
+     "secs": 10,
+     "bytes": {
+      "prores": 136590882,
+      "mp4": 26219001,
+      "still": 2595404
+     }
+    },
+    {
+     "n": 2,
+     "label": "Copper",
+     "file": "Dot Globe 02 - Copper",
+     "secs": 10,
+     "bytes": {
+      "prores": 136806308,
+      "mp4": 26148048,
+      "still": 3227669
+     }
+    },
+    {
+     "n": 3,
+     "label": "Glacier",
+     "file": "Dot Globe 03 - Glacier",
+     "secs": 10,
+     "bytes": {
+      "prores": 136808502,
+      "mp4": 25679636,
+      "still": 3710296
+     }
+    },
+    {
+     "n": 4,
+     "label": "Indigo Flame",
+     "file": "Dot Globe 04 - Indigo Flame",
+     "secs": 10,
+     "bytes": {
+      "prores": 136734169,
+      "mp4": 26301987,
+      "still": 3642789
+     }
+    },
+    {
+     "n": 5,
+     "label": "Lapis Gold",
+     "file": "Dot Globe 05 - Lapis Gold",
+     "secs": 10,
+     "bytes": {
+      "prores": 136613102,
+      "mp4": 26261656,
+      "still": 3802758
+     }
+    },
+    {
+     "n": 6,
+     "label": "Plum",
+     "file": "Dot Globe 06 - Plum",
+     "secs": 10,
+     "bytes": {
+      "prores": 136847535,
+      "mp4": 26321362,
+      "still": 3708805
+     }
+    },
+    {
+     "n": 7,
+     "label": "Dusk",
+     "file": "Dot Globe 07 - Dusk",
+     "secs": 10,
+     "bytes": {
+      "prores": 136840355,
+      "mp4": 26341663,
+      "still": 3751801
+     }
+    },
+    {
+     "n": 8,
+     "label": "Jade Night",
+     "file": "Dot Globe 08 - Jade Night",
+     "secs": 10,
+     "bytes": {
+      "prores": 136750747,
+      "mp4": 26068755,
+      "still": 3370671
+     }
+    },
+    {
+     "n": 9,
+     "label": "Deep Sea",
+     "file": "Dot Globe 09 - Deep Sea",
+     "secs": 10,
+     "bytes": {
+      "prores": 136639141,
+      "mp4": 26255631,
+      "still": 3747392
+     }
+    },
+    {
+     "n": 10,
+     "label": "Nordic",
+     "file": "Dot Globe 10 - Nordic",
+     "secs": 10,
+     "bytes": {
+      "prores": 136809011,
+      "mp4": 25975253,
+      "still": 3699881
+     }
+    }
+   ],
+   "zip": {
+    "prores": 1402700500,
+    "mp4": 296833680
+   }
+  },
+  {
+   "slug": "flow",
+   "name": "Flow",
+   "family": "flow",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Chrome Pink",
+     "file": "Flow 01 - Chrome Pink",
+     "secs": 10,
+     "bytes": {
+      "prores": 136729408,
+      "mp4": 26517030,
+      "still": 2929666
+     }
+    },
+    {
+     "n": 2,
+     "label": "Chrome Pink · Frosted",
+     "file": "Flow 02 - Chrome Pink · Frosted",
+     "secs": 10,
+     "bytes": {
+      "prores": 136748514,
+      "mp4": 26086546,
+      "still": 3046139
+     }
+    },
+    {
+     "n": 3,
+     "label": "Cobalt",
+     "file": "Flow 03 - Cobalt",
+     "secs": 10,
+     "bytes": {
+      "prores": 136729796,
+      "mp4": 25726363,
+      "still": 3252256
+     }
+    },
+    {
+     "n": 4,
+     "label": "Crimson · Mirror",
+     "file": "Flow 04 - Crimson · Mirror",
+     "secs": 10,
+     "bytes": {
+      "prores": 136792252,
+      "mp4": 26000213,
+      "still": 3272743
+     }
+    },
+    {
+     "n": 5,
+     "label": "Crimson · Reeded",
+     "file": "Flow 05 - Crimson · Reeded",
+     "secs": 10,
+     "bytes": {
+      "prores": 136703963,
+      "mp4": 26155595,
+      "still": 3499313
+     }
+    },
+    {
+     "n": 6,
+     "label": "Dusk · Prism",
+     "file": "Flow 06 - Dusk · Prism",
+     "secs": 10,
+     "bytes": {
+      "prores": 136700209,
+      "mp4": 26525176,
+      "still": 3039132
+     }
+    },
+    {
+     "n": 7,
+     "label": "Dusk · Reeded",
+     "file": "Flow 07 - Dusk · Reeded",
+     "secs": 10,
+     "bytes": {
+      "prores": 136693810,
+      "mp4": 26733897,
+      "still": 3085977
+     }
+    },
+    {
+     "n": 8,
+     "label": "Glacier · Frosted",
+     "file": "Flow 08 - Glacier · Frosted",
+     "secs": 10,
+     "bytes": {
+      "prores": 136729087,
+      "mp4": 26423770,
+      "still": 3195050
+     }
+    },
+    {
+     "n": 9,
+     "label": "Glacier · Scanlines",
+     "file": "Flow 09 - Glacier · Scanlines",
+     "secs": 10,
+     "bytes": {
+      "prores": 136588476,
+      "mp4": 26544195,
+      "still": 3117285
+     }
+    },
+    {
+     "n": 10,
+     "label": "Infrared · Mirror",
+     "file": "Flow 10 - Infrared · Mirror",
+     "secs": 10,
+     "bytes": {
+      "prores": 136744629,
+      "mp4": 25977207,
+      "still": 3187220
+     }
+    },
+    {
+     "n": 11,
+     "label": "Nordic · Bloom",
+     "file": "Flow 11 - Nordic · Bloom",
+     "secs": 10,
+     "bytes": {
+      "prores": 136709030,
+      "mp4": 26105004,
+      "still": 3156712
+     }
+    },
+    {
+     "n": 12,
+     "label": "Plum · Prism",
+     "file": "Flow 12 - Plum · Prism",
+     "secs": 10,
+     "bytes": {
+      "prores": 136705782,
+      "mp4": 25872071,
+      "still": 3092933
+     }
+    },
+    {
+     "n": 13,
+     "label": "Saffron",
+     "file": "Flow 13 - Saffron",
+     "secs": 10,
+     "bytes": {
+      "prores": 136711088,
+      "mp4": 25737379,
+      "still": 3403695
+     }
+    },
+    {
+     "n": 14,
+     "label": "Verdant · Bloom",
+     "file": "Flow 14 - Verdant · Bloom",
+     "secs": 10,
+     "bytes": {
+      "prores": 136701639,
+      "mp4": 26070223,
+      "still": 3025535
+     }
+    },
+    {
+     "n": 15,
+     "label": "Voltage",
+     "file": "Flow 15 - Voltage",
+     "secs": 10,
+     "bytes": {
+      "prores": 136698421,
+      "mp4": 26511351,
+      "still": 3247246
+     }
+    },
+    {
+     "n": 16,
+     "label": "Infrared (variation)",
+     "file": "Flow 16 - Infrared (variation)",
+     "secs": 10,
+     "bytes": {
+      "prores": 136757743,
+      "mp4": 25923955,
+      "still": 3382882
+     }
+    }
+   ],
+   "zip": {
+    "prores": 2238382953,
+    "mp4": 469848717
+   }
+  },
+  {
+   "slug": "grooves",
+   "name": "Grooves",
+   "family": "glass",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Original",
+     "file": "Grooves 01 - Original",
+     "secs": 10,
+     "bytes": {
+      "prores": 136737325,
+      "mp4": 26856661,
+      "still": 2959513
+     }
+    },
+    {
+     "n": 2,
+     "label": "Lapis Gold",
+     "file": "Grooves 02 - Lapis Gold",
+     "secs": 10,
+     "bytes": {
+      "prores": 136684946,
+      "mp4": 24947319,
+      "still": 3554564
+     }
+    },
+    {
+     "n": 3,
+     "label": "Ember",
+     "file": "Grooves 03 - Ember",
+     "secs": 10,
+     "bytes": {
+      "prores": 136622733,
+      "mp4": 26632781,
+      "still": 3547962
+     }
+    },
+    {
+     "n": 4,
+     "label": "Copper",
+     "file": "Grooves 04 - Copper",
+     "secs": 10,
+     "bytes": {
+      "prores": 136603597,
+      "mp4": 25323452,
+      "still": 3392434
+     }
+    },
+    {
+     "n": 5,
+     "label": "Aurora",
+     "file": "Grooves 05 - Aurora",
+     "secs": 10,
+     "bytes": {
+      "prores": 136678211,
+      "mp4": 25395726,
+      "still": 3492769
+     }
+    },
+    {
+     "n": 6,
+     "label": "Crimson",
+     "file": "Grooves 06 - Crimson",
+     "secs": 10,
+     "bytes": {
+      "prores": 136723228,
+      "mp4": 25486304,
+      "still": 3591197
+     }
+    },
+    {
+     "n": 7,
+     "label": "Silver",
+     "file": "Grooves 07 - Silver",
+     "secs": 10,
+     "bytes": {
+      "prores": 136710535,
+      "mp4": 24506667,
+      "still": 3131935
+     }
+    },
+    {
+     "n": 8,
+     "label": "Tide",
+     "file": "Grooves 08 - Tide",
+     "secs": 10,
+     "bytes": {
+      "prores": 136707071,
+      "mp4": 25703922,
+      "still": 3514992
+     }
+    },
+    {
+     "n": 9,
+     "label": "Cobalt",
+     "file": "Grooves 09 - Cobalt",
+     "secs": 10,
+     "bytes": {
+      "prores": 136677495,
+      "mp4": 25072560,
+      "still": 3550433
+     }
+    },
+    {
+     "n": 10,
+     "label": "Dusk",
+     "file": "Grooves 10 - Dusk",
+     "secs": 10,
+     "bytes": {
+      "prores": 136542244,
+      "mp4": 25909571,
+      "still": 3336850
+     }
+    }
+   ],
+   "zip": {
+    "prores": 1400763104,
+    "mp4": 289910622
+   }
+  },
+  {
+   "slug": "halftone-horizon",
+   "name": "Halftone Horizon",
+   "family": "form",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Ember",
+     "file": "Halftone Horizon 01 - Ember",
+     "secs": 20,
+     "bytes": {
+      "prores": 272981202,
+      "mp4": 47258169,
+      "still": 2770969
+     }
+    },
+    {
+     "n": 2,
+     "label": "Gilded",
+     "file": "Halftone Horizon 02 - Gilded",
+     "secs": 20,
+     "bytes": {
+      "prores": 272571249,
+      "mp4": 47819436,
+      "still": 3660503
+     }
+    },
+    {
+     "n": 3,
+     "label": "Crimson",
+     "file": "Halftone Horizon 03 - Crimson",
+     "secs": 20,
+     "bytes": {
+      "prores": 273300663,
+      "mp4": 47834624,
+      "still": 3364580
+     }
+    },
+    {
+     "n": 4,
+     "label": "Dusk",
+     "file": "Halftone Horizon 04 - Dusk",
+     "secs": 20,
+     "bytes": {
+      "prores": 272540405,
+      "mp4": 46444886,
+      "still": 3878136
+     }
+    },
+    {
+     "n": 5,
+     "label": "Cobalt",
+     "file": "Halftone Horizon 05 - Cobalt",
+     "secs": 20,
+     "bytes": {
+      "prores": 273164831,
+      "mp4": 48818923,
+      "still": 3761656
+     }
+    },
+    {
+     "n": 6,
+     "label": "Tide",
+     "file": "Halftone Horizon 06 - Tide",
+     "secs": 20,
+     "bytes": {
+      "prores": 273333020,
+      "mp4": 47483956,
+      "still": 3800611
+     }
+    },
+    {
+     "n": 7,
+     "label": "Verdant",
+     "file": "Halftone Horizon 07 - Verdant",
+     "secs": 20,
+     "bytes": {
+      "prores": 273327347,
+      "mp4": 47348659,
+      "still": 3280894
+     }
+    },
+    {
+     "n": 8,
+     "label": "Rosewater",
+     "file": "Halftone Horizon 08 - Rosewater",
+     "secs": 20,
+     "bytes": {
+      "prores": 272932174,
+      "mp4": 46832771,
+      "still": 3852862
+     }
+    },
+    {
+     "n": 9,
+     "label": "Silver",
+     "file": "Halftone Horizon 09 - Silver",
+     "secs": 20,
+     "bytes": {
+      "prores": 273478532,
+      "mp4": 47150434,
+      "still": 3341626
+     }
+    },
+    {
+     "n": 10,
+     "label": "Ultraviolet",
+     "file": "Halftone Horizon 10 - Ultraviolet",
+     "secs": 20,
+     "bytes": {
+      "prores": 272310502,
+      "mp4": 49499752,
+      "still": 3925924
+     }
+    }
+   ],
+   "zip": {
+    "prores": 2765581708,
+    "mp4": 512133113
+   }
+  },
+  {
+   "slug": "halo",
+   "name": "Halo",
+   "family": "glow",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Original",
+     "file": "Halo 01 - Original",
+     "secs": 20,
+     "bytes": {
+      "prores": 584316127,
+      "mp4": 51039049,
+      "still": 3462651
+     }
+    },
+    {
+     "n": 2,
+     "label": "Gold",
+     "file": "Halo 02 - Gold",
+     "secs": 20,
+     "bytes": {
+      "prores": 584457584,
+      "mp4": 50973666,
+      "still": 3497279
+     }
+    },
+    {
+     "n": 3,
+     "label": "Crimson",
+     "file": "Halo 03 - Crimson",
+     "secs": 20,
+     "bytes": {
+      "prores": 584102819,
+      "mp4": 50897819,
+      "still": 3484148
+     }
+    },
+    {
+     "n": 4,
+     "label": "Emerald",
+     "file": "Halo 04 - Emerald",
+     "secs": 20,
+     "bytes": {
+      "prores": 584134133,
+      "mp4": 50875306,
+      "still": 3497089
+     }
+    },
+    {
+     "n": 5,
+     "label": "Violet",
+     "file": "Halo 05 - Violet",
+     "secs": 20,
+     "bytes": {
+      "prores": 584221188,
+      "mp4": 51247514,
+      "still": 3497861
+     }
+    },
+    {
+     "n": 6,
+     "label": "Mono",
+     "file": "Halo 06 - Mono",
+     "secs": 20,
+     "bytes": {
+      "prores": 584487751,
+      "mp4": 51585590,
+      "still": 3095348
+     }
+    },
+    {
+     "n": 7,
+     "label": "Teal",
+     "file": "Halo 07 - Teal",
+     "secs": 20,
+     "bytes": {
+      "prores": 584112701,
+      "mp4": 51273583,
+      "still": 3526934
+     }
+    },
+    {
+     "n": 8,
+     "label": "Magenta",
+     "file": "Halo 08 - Magenta",
+     "secs": 20,
+     "bytes": {
+      "prores": 584240533,
+      "mp4": 51393284,
+      "still": 3548816
+     }
+    },
+    {
+     "n": 9,
+     "label": "Amber Drift",
+     "file": "Halo 09 - Amber Drift",
+     "secs": 20,
+     "bytes": {
+      "prores": 584385935,
+      "mp4": 51795685,
+      "still": 3502673
+     }
+    },
+    {
+     "n": 10,
+     "label": "Ice Drift",
+     "file": "Halo 10 - Ice Drift",
+     "secs": 20,
+     "bytes": {
+      "prores": 582221531,
+      "mp4": 51752671,
+      "still": 3347653
+     }
+    }
+   ],
+   "zip": {
+    "prores": 5875143872,
+    "mp4": 547297409
+   }
+  },
+  {
+   "slug": "lilac-mint-flutes",
+   "name": "Lilac Mint Flutes",
+   "family": "glass",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Original",
+     "file": "Lilac Mint Flutes 01 - Original",
+     "secs": 10,
+     "bytes": {
+      "prores": 136708156,
+      "mp4": 25865845,
+      "still": 3029053
+     }
+    },
+    {
+     "n": 2,
+     "label": "Saffron",
+     "file": "Lilac Mint Flutes 02 - Saffron",
+     "secs": 10,
+     "bytes": {
+      "prores": 136709970,
+      "mp4": 26281172,
+      "still": 3503401
+     }
+    },
+    {
+     "n": 3,
+     "label": "Deep Sea",
+     "file": "Lilac Mint Flutes 03 - Deep Sea",
+     "secs": 10,
+     "bytes": {
+      "prores": 136696648,
+      "mp4": 26330184,
+      "still": 3399686
+     }
+    },
+    {
+     "n": 4,
+     "label": "Ember",
+     "file": "Lilac Mint Flutes 04 - Ember",
+     "secs": 10,
+     "bytes": {
+      "prores": 136771711,
+      "mp4": 25694063,
+      "still": 3383861
+     }
+    },
+    {
+     "n": 5,
+     "label": "Glacier",
+     "file": "Lilac Mint Flutes 05 - Glacier",
+     "secs": 10,
+     "bytes": {
+      "prores": 136684473,
+      "mp4": 25906380,
+      "still": 3118535
+     }
+    },
+    {
+     "n": 6,
+     "label": "Ember Teal",
+     "file": "Lilac Mint Flutes 06 - Ember Teal",
+     "secs": 10,
+     "bytes": {
+      "prores": 136739257,
+      "mp4": 26132697,
+      "still": 3307294
+     }
+    },
+    {
+     "n": 7,
+     "label": "Verdant",
+     "file": "Lilac Mint Flutes 07 - Verdant",
+     "secs": 10,
+     "bytes": {
+      "prores": 136699348,
+      "mp4": 25485932,
+      "still": 2990469
+     }
+    },
+    {
+     "n": 8,
+     "label": "Jade Night",
+     "file": "Lilac Mint Flutes 08 - Jade Night",
+     "secs": 10,
+     "bytes": {
+      "prores": 136763155,
+      "mp4": 26439430,
+      "still": 3244654
+     }
+    },
+    {
+     "n": 9,
+     "label": "Oxblood",
+     "file": "Lilac Mint Flutes 09 - Oxblood",
+     "secs": 10,
+     "bytes": {
+      "prores": 136738914,
+      "mp4": 26374220,
+      "still": 3382389
+     }
+    },
+    {
+     "n": 10,
+     "label": "Nordic",
+     "file": "Lilac Mint Flutes 10 - Nordic",
+     "secs": 10,
+     "bytes": {
+      "prores": 136761476,
+      "mp4": 25878132,
+      "still": 3071355
+     }
+    }
+   ],
+   "zip": {
+    "prores": 1399707727,
+    "mp4": 292822614
+   }
+  },
+  {
+   "slug": "line-waves",
+   "name": "Line Waves",
+   "family": "light",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Original",
+     "file": "Line Waves 01 - Original",
+     "secs": 10,
+     "bytes": {
+      "prores": 136721311,
+      "mp4": 26622516,
+      "still": 3351795
+     }
+    },
+    {
+     "n": 2,
+     "label": "Verdant",
+     "file": "Line Waves 02 - Verdant",
+     "secs": 10,
+     "bytes": {
+      "prores": 136700973,
+      "mp4": 26148758,
+      "still": 3059384
+     }
+    },
+    {
+     "n": 3,
+     "label": "Saffron",
+     "file": "Line Waves 03 - Saffron",
+     "secs": 10,
+     "bytes": {
+      "prores": 136813197,
+      "mp4": 26297074,
+      "still": 3460546
+     }
+    },
+    {
+     "n": 4,
+     "label": "Dusk",
+     "file": "Line Waves 04 - Dusk",
+     "secs": 10,
+     "bytes": {
+      "prores": 136664862,
+      "mp4": 26227548,
+      "still": 3367614
+     }
+    },
+    {
+     "n": 5,
+     "label": "Glacier",
+     "file": "Line Waves 05 - Glacier",
+     "secs": 10,
+     "bytes": {
+      "prores": 136756964,
+      "mp4": 26423247,
+      "still": 3325285
+     }
+    },
+    {
+     "n": 6,
+     "label": "Ultraviolet",
+     "file": "Line Waves 06 - Ultraviolet",
+     "secs": 10,
+     "bytes": {
+      "prores": 136660776,
+      "mp4": 26297418,
+      "still": 3515426
+     }
+    },
+    {
+     "n": 7,
+     "label": "Crimson",
+     "file": "Line Waves 07 - Crimson",
+     "secs": 10,
+     "bytes": {
+      "prores": 136792635,
+      "mp4": 26158819,
+      "still": 3428961
+     }
+    },
+    {
+     "n": 8,
+     "label": "Cobalt",
+     "file": "Line Waves 08 - Cobalt",
+     "secs": 10,
+     "bytes": {
+      "prores": 136709100,
+      "mp4": 26199116,
+      "still": 3502297
+     }
+    },
+    {
+     "n": 9,
+     "label": "Orchid",
+     "file": "Line Waves 09 - Orchid",
+     "secs": 10,
+     "bytes": {
+      "prores": 136811992,
+      "mp4": 26489176,
+      "still": 3386517
+     }
+    },
+    {
+     "n": 10,
+     "label": "Nordic",
+     "file": "Line Waves 10 - Nordic",
+     "secs": 10,
+     "bytes": {
+      "prores": 136673863,
+      "mp4": 26406709,
+      "still": 3299855
+     }
+    }
+   ],
+   "zip": {
+    "prores": 1401006691,
+    "mp4": 296971339
+   }
+  },
+  {
+   "slug": "liquid-chrome",
+   "name": "Liquid Chrome",
+   "family": "form",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Original",
+     "file": "Liquid Chrome 01 - Original",
+     "secs": 20,
+     "bytes": {
+      "prores": 273432803,
+      "mp4": 50593656,
+      "still": 3215682
+     }
+    },
+    {
+     "n": 2,
+     "label": "Silver",
+     "file": "Liquid Chrome 02 - Silver",
+     "secs": 20,
+     "bytes": {
+      "prores": 273463433,
+      "mp4": 51849377,
+      "still": 3231006
+     }
+    },
+    {
+     "n": 3,
+     "label": "Gilded",
+     "file": "Liquid Chrome 03 - Gilded",
+     "secs": 20,
+     "bytes": {
+      "prores": 273415375,
+      "mp4": 50702504,
+      "still": 3510026
+     }
+    },
+    {
+     "n": 4,
+     "label": "Copper",
+     "file": "Liquid Chrome 04 - Copper",
+     "secs": 20,
+     "bytes": {
+      "prores": 273423006,
+      "mp4": 51327133,
+      "still": 3453730
+     }
+    },
+    {
+     "n": 5,
+     "label": "Rosewater",
+     "file": "Liquid Chrome 05 - Rosewater",
+     "secs": 20,
+     "bytes": {
+      "prores": 273427952,
+      "mp4": 50995845,
+      "still": 3399989
+     }
+    },
+    {
+     "n": 6,
+     "label": "Cobalt",
+     "file": "Liquid Chrome 06 - Cobalt",
+     "secs": 20,
+     "bytes": {
+      "prores": 273416592,
+      "mp4": 51150955,
+      "still": 3554351
+     }
+    },
+    {
+     "n": 7,
+     "label": "Glacier",
+     "file": "Liquid Chrome 07 - Glacier",
+     "secs": 20,
+     "bytes": {
+      "prores": 273417593,
+      "mp4": 50671364,
+      "still": 3340917
+     }
+    },
+    {
+     "n": 8,
+     "label": "Chrome Pink",
+     "file": "Liquid Chrome 08 - Chrome Pink",
+     "secs": 20,
+     "bytes": {
+      "prores": 273444554,
+      "mp4": 50620994,
+      "still": 3281023
+     }
+    },
+    {
+     "n": 9,
+     "label": "Jade Night",
+     "file": "Liquid Chrome 09 - Jade Night",
+     "secs": 20,
+     "bytes": {
+      "prores": 273443086,
+      "mp4": 51899553,
+      "still": 3468473
+     }
+    },
+    {
+     "n": 10,
+     "label": "Oxblood",
+     "file": "Liquid Chrome 10 - Oxblood",
+     "secs": 20,
+     "bytes": {
+      "prores": 273498612,
+      "mp4": 51404314,
+      "still": 3519388
+     }
+    }
+   ],
+   "zip": {
+    "prores": 2768361417,
+    "mp4": 545193826
+   }
+  },
+  {
+   "slug": "mesh",
+   "name": "Mesh",
+   "family": "form",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Bioluminescent",
+     "file": "Mesh 01 - Bioluminescent",
+     "secs": 10,
+     "bytes": {
+      "prores": 136814068,
+      "mp4": 26460188,
+      "still": 3412706
+     }
+    },
+    {
+     "n": 2,
+     "label": "Copper",
+     "file": "Mesh 02 - Copper",
+     "secs": 10,
+     "bytes": {
+      "prores": 136737343,
+      "mp4": 26310999,
+      "still": 2805654
+     }
+    },
+    {
+     "n": 3,
+     "label": "Crimson",
+     "file": "Mesh 03 - Crimson",
+     "secs": 10,
+     "bytes": {
+      "prores": 136814514,
+      "mp4": 26706790,
+      "still": 3248508
+     }
+    },
+    {
+     "n": 4,
+     "label": "Ember Teal",
+     "file": "Mesh 04 - Ember Teal",
+     "secs": 10,
+     "bytes": {
+      "prores": 136711132,
+      "mp4": 26373796,
+      "still": 2895878
+     }
+    },
+    {
+     "n": 5,
+     "label": "Gilded",
+     "file": "Mesh 05 - Gilded",
+     "secs": 10,
+     "bytes": {
+      "prores": 136729032,
+      "mp4": 26408937,
+      "still": 2905672
+     }
+    },
+    {
+     "n": 6,
+     "label": "Indigo Flame",
+     "file": "Mesh 06 - Indigo Flame",
+     "secs": 10,
+     "bytes": {
+      "prores": 136758541,
+      "mp4": 25780838,
+      "still": 2902920
+     }
+    },
+    {
+     "n": 7,
+     "label": "Orchid",
+     "file": "Mesh 07 - Orchid",
+     "secs": 10,
+     "bytes": {
+      "prores": 136805783,
+      "mp4": 26096225,
+      "still": 2929804
+     }
+    },
+    {
+     "n": 8,
+     "label": "Oxblood",
+     "file": "Mesh 08 - Oxblood",
+     "secs": 10,
+     "bytes": {
+      "prores": 136750440,
+      "mp4": 25869731,
+      "still": 3247184
+     }
+    },
+    {
+     "n": 9,
+     "label": "Rosewater",
+     "file": "Mesh 09 - Rosewater",
+     "secs": 10,
+     "bytes": {
+      "prores": 136771259,
+      "mp4": 25749196,
+      "still": 2982878
+     }
+    },
+    {
+     "n": 10,
+     "label": "Verdant",
+     "file": "Mesh 10 - Verdant",
+     "secs": 10,
+     "bytes": {
+      "prores": 136759179,
+      "mp4": 26426855,
+      "still": 2744609
+     }
+    }
+   ],
+   "zip": {
+    "prores": 1397730022,
+    "mp4": 292262226
+   }
+  },
+  {
+   "slug": "mesh-glass",
+   "name": "Mesh Glass",
+   "family": "glass",
+   "previewOnly": true,
+   "loops": [
+    {
+     "n": 1,
+     "label": "Chrome Pink · Wide Flutes",
+     "file": "Mesh Glass 01 - Chrome Pink · Wide Flutes",
+     "secs": 10,
+     "bytes": {
+      "prores": 136733504,
+      "mp4": 0,
+      "still": 2820026
+     }
+    },
+    {
+     "n": 2,
+     "label": "Glacier · Wide Flutes",
+     "file": "Mesh Glass 02 - Glacier · Wide Flutes",
+     "secs": 10,
+     "bytes": {
+      "prores": 136721806,
+      "mp4": 0,
+      "still": 2941749
+     }
+    },
+    {
+     "n": 3,
+     "label": "Midnight Rose · Wide Flutes",
+     "file": "Mesh Glass 03 - Midnight Rose · Wide Flutes",
+     "secs": 10,
+     "bytes": {
+      "prores": 136699520,
+      "mp4": 0,
+      "still": 3067292
+     }
+    },
+    {
+     "n": 4,
+     "label": "Orchid · Wide Flutes",
+     "file": "Mesh Glass 04 - Orchid · Wide Flutes",
+     "secs": 10,
+     "bytes": {
+      "prores": 136727206,
+      "mp4": 0,
+      "still": 3115216
+     }
+    },
+    {
+     "n": 5,
+     "label": "Tide · Wide Flutes",
+     "file": "Mesh Glass 05 - Tide · Wide Flutes",
+     "secs": 10,
+     "bytes": {
+      "prores": 136718829,
+      "mp4": 0,
+      "still": 3031206
+     }
+    },
+    {
+     "n": 6,
+     "label": "Voltage · Wide Flutes",
+     "file": "Mesh Glass 06 - Voltage · Wide Flutes",
+     "secs": 10,
+     "bytes": {
+      "prores": 136773945,
+      "mp4": 0,
+      "still": 3156124
+     }
+    },
+    {
+     "n": 7,
+     "label": "Copper · Reeded",
+     "file": "Mesh Glass 07 - Copper · Reeded",
+     "secs": 10,
+     "bytes": {
+      "prores": 136702733,
+      "mp4": 0,
+      "still": 3065827
+     }
+    },
+    {
+     "n": 8,
+     "label": "Ember · Reeded",
+     "file": "Mesh Glass 08 - Ember · Reeded",
+     "secs": 10,
+     "bytes": {
+      "prores": 136698044,
+      "mp4": 0,
+      "still": 3117342
+     }
+    },
+    {
+     "n": 9,
+     "label": "Infrared · Reeded",
+     "file": "Mesh Glass 09 - Infrared · Reeded",
+     "secs": 10,
+     "bytes": {
+      "prores": 136754347,
+      "mp4": 0,
+      "still": 3186455
+     }
+    },
+    {
+     "n": 10,
+     "label": "Silver · Reeded",
+     "file": "Mesh Glass 10 - Silver · Reeded",
+     "secs": 10,
+     "bytes": {
+      "prores": 136743885,
+      "mp4": 0,
+      "still": 3021962
+     }
+    }
+   ],
+   "zip": {
+    "prores": 1367273819,
+    "mp4": 0
+   }
+  },
+  {
+   "slug": "mesh-glow",
+   "name": "Mesh Glow",
+   "family": "glow",
+   "previewOnly": true,
+   "loops": [
+    {
+     "n": 1,
+     "label": "Bioluminescent · Bloom",
+     "file": "Mesh Glow 01 - Bioluminescent · Bloom",
+     "secs": 10,
+     "bytes": {
+      "prores": 136814329,
+      "mp4": 0,
+      "still": 3513995
+     }
+    },
+    {
+     "n": 2,
+     "label": "Crimson · Bloom",
+     "file": "Mesh Glow 02 - Crimson · Bloom",
+     "secs": 10,
+     "bytes": {
+      "prores": 136777603,
+      "mp4": 0,
+      "still": 3278286
+     }
+    },
+    {
+     "n": 3,
+     "label": "Gilded · Bloom",
+     "file": "Mesh Glow 03 - Gilded · Bloom",
+     "secs": 10,
+     "bytes": {
+      "prores": 136727548,
+      "mp4": 0,
+      "still": 3229879
+     }
+    },
+    {
+     "n": 4,
+     "label": "Infrared · Bloom",
+     "file": "Mesh Glow 04 - Infrared · Bloom",
+     "secs": 10,
+     "bytes": {
+      "prores": 136751692,
+      "mp4": 0,
+      "still": 3223628
+     }
+    },
+    {
+     "n": 5,
+     "label": "Oxblood · Bloom",
+     "file": "Mesh Glow 05 - Oxblood · Bloom",
+     "secs": 10,
+     "bytes": {
+      "prores": 136740461,
+      "mp4": 0,
+      "still": 3102030
+     }
+    },
+    {
+     "n": 6,
+     "label": "Nordic · Mirror",
+     "file": "Mesh Glow 06 - Nordic · Mirror",
+     "secs": 10,
+     "bytes": {
+      "prores": 136749859,
+      "mp4": 0,
+      "still": 2641898
+     }
+    },
+    {
+     "n": 7,
+     "label": "Silver · Mirror",
+     "file": "Mesh Glow 07 - Silver · Mirror",
+     "secs": 10,
+     "bytes": {
+      "prores": 136728681,
+      "mp4": 0,
+      "still": 2756851
+     }
+    },
+    {
+     "n": 8,
+     "label": "Chrome Pink · Prism",
+     "file": "Mesh Glow 08 - Chrome Pink · Prism",
+     "secs": 10,
+     "bytes": {
+      "prores": 136747888,
+      "mp4": 0,
+      "still": 2818433
+     }
+    },
+    {
+     "n": 9,
+     "label": "Orchid · Frosted",
+     "file": "Mesh Glow 09 - Orchid · Frosted",
+     "secs": 10,
+     "bytes": {
+      "prores": 136743966,
+      "mp4": 0,
+      "still": 3040357
+     }
+    },
+    {
+     "n": 10,
+     "label": "Deep Sea · Bloom",
+     "file": "Mesh Glow 10 - Deep Sea · Bloom",
+     "secs": 10,
+     "bytes": {
+      "prores": 136712307,
+      "mp4": 0,
+      "still": 3256755
+     }
+    }
+   ],
+   "zip": {
+    "prores": 1367494334,
+    "mp4": 0
+   }
+  },
+  {
+   "slug": "mesh-print",
+   "name": "Mesh Print",
+   "family": "form",
+   "previewOnly": true,
+   "loops": [
+    {
+     "n": 1,
+     "label": "Lapis Gold · Halftone",
+     "file": "Mesh Print 01 - Lapis Gold · Halftone",
+     "secs": 10,
+     "bytes": {
+      "prores": 135904548,
+      "mp4": 0,
+      "still": 4059496
+     }
+    },
+    {
+     "n": 2,
+     "label": "Tide · Halftone",
+     "file": "Mesh Print 02 - Tide · Halftone",
+     "secs": 10,
+     "bytes": {
+      "prores": 136723926,
+      "mp4": 0,
+      "still": 4017016
+     }
+    },
+    {
+     "n": 3,
+     "label": "Voltage · Halftone",
+     "file": "Mesh Print 03 - Voltage · Halftone",
+     "secs": 10,
+     "bytes": {
+      "prores": 135146513,
+      "mp4": 0,
+      "still": 4063041
+     }
+    },
+    {
+     "n": 4,
+     "label": "Cobalt · Scanlines",
+     "file": "Mesh Print 04 - Cobalt · Scanlines",
+     "secs": 10,
+     "bytes": {
+      "prores": 136479059,
+      "mp4": 0,
+      "still": 3091806
+     }
+    },
+    {
+     "n": 5,
+     "label": "Dusk · Scanlines",
+     "file": "Mesh Print 05 - Dusk · Scanlines",
+     "secs": 10,
+     "bytes": {
+      "prores": 136662305,
+      "mp4": 0,
+      "still": 2987423
+     }
+    },
+    {
+     "n": 6,
+     "label": "Jade Night · Scanlines",
+     "file": "Mesh Print 06 - Jade Night · Scanlines",
+     "secs": 10,
+     "bytes": {
+      "prores": 136647143,
+      "mp4": 0,
+      "still": 3022108
+     }
+    },
+    {
+     "n": 7,
+     "label": "Ember · Halftone",
+     "file": "Mesh Print 07 - Ember · Halftone",
+     "secs": 10,
+     "bytes": {
+      "prores": 135327105,
+      "mp4": 0,
+      "still": 4132055
+     }
+    },
+    {
+     "n": 8,
+     "label": "Rosewater · Halftone",
+     "file": "Mesh Print 08 - Rosewater · Halftone",
+     "secs": 10,
+     "bytes": {
+      "prores": 136691932,
+      "mp4": 0,
+      "still": 4026573
+     }
+    },
+    {
+     "n": 9,
+     "label": "Crimson · Scanlines",
+     "file": "Mesh Print 09 - Crimson · Scanlines",
+     "secs": 10,
+     "bytes": {
+      "prores": 136704805,
+      "mp4": 0,
+      "still": 3226139
+     }
+    },
+    {
+     "n": 10,
+     "label": "Gilded · Scanlines",
+     "file": "Mesh Print 10 - Gilded · Scanlines",
+     "secs": 10,
+     "bytes": {
+      "prores": 136365280,
+      "mp4": 0,
+      "still": 3013414
+     }
+    },
+    {
+     "n": 11,
+     "label": "Copper (variation)",
+     "file": "Mesh Print 11 - Copper (variation)",
+     "secs": 10,
+     "bytes": {
+      "prores": 136702499,
+      "mp4": 0,
+      "still": 3954612
+     }
+    },
+    {
+     "n": 12,
+     "label": "Gilded (variation)",
+     "file": "Mesh Print 12 - Gilded (variation)",
+     "secs": 10,
+     "bytes": {
+      "prores": 134337907,
+      "mp4": 0,
+      "still": 4060973
+     }
+    },
+    {
+     "n": 13,
+     "label": "Oxblood (variation)",
+     "file": "Mesh Print 13 - Oxblood (variation)",
+     "secs": 10,
+     "bytes": {
+      "prores": 136756810,
+      "mp4": 0,
+      "still": 3862142
+     }
+    },
+    {
+     "n": 14,
+     "label": "Saffron (variation)",
+     "file": "Mesh Print 14 - Saffron (variation)",
+     "secs": 10,
+     "bytes": {
+      "prores": 134415227,
+      "mp4": 0,
+      "still": 4218504
+     }
+    },
+    {
+     "n": 15,
+     "label": "Silver (variation)",
+     "file": "Mesh Print 15 - Silver (variation)",
+     "secs": 10,
+     "bytes": {
+      "prores": 136588203,
+      "mp4": 0,
+      "still": 3774976
+     }
+    }
+   ],
+   "zip": {
+    "prores": 2041453262,
+    "mp4": 0
+   }
+  },
+  {
+   "slug": "point-wave",
+   "name": "Point Wave",
+   "family": "form",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Original",
+     "file": "Point Wave 01 - Original",
+     "secs": 10,
+     "bytes": {
+      "prores": 136628863,
+      "mp4": 26808003,
+      "still": 2110000
+     }
+    },
+    {
+     "n": 2,
+     "label": "Glacier",
+     "file": "Point Wave 02 - Glacier",
+     "secs": 10,
+     "bytes": {
+      "prores": 136795029,
+      "mp4": 25595470,
+      "still": 3543891
+     }
+    },
+    {
+     "n": 3,
+     "label": "Midnight Rose",
+     "file": "Point Wave 03 - Midnight Rose",
+     "secs": 10,
+     "bytes": {
+      "prores": 136788037,
+      "mp4": 26778401,
+      "still": 2797205
+     }
+    },
+    {
+     "n": 4,
+     "label": "Aurora",
+     "file": "Point Wave 04 - Aurora",
+     "secs": 10,
+     "bytes": {
+      "prores": 136738819,
+      "mp4": 25721703,
+      "still": 3527965
+     }
+    },
+    {
+     "n": 5,
+     "label": "Plum",
+     "file": "Point Wave 05 - Plum",
+     "secs": 10,
+     "bytes": {
+      "prores": 136829413,
+      "mp4": 26249661,
+      "still": 3626508
+     }
+    },
+    {
+     "n": 6,
+     "label": "Verdant",
+     "file": "Point Wave 06 - Verdant",
+     "secs": 10,
+     "bytes": {
+      "prores": 136789477,
+      "mp4": 26270346,
+      "still": 2642044
+     }
+    },
+    {
+     "n": 7,
+     "label": "Crimson",
+     "file": "Point Wave 07 - Crimson",
+     "secs": 10,
+     "bytes": {
+      "prores": 136795819,
+      "mp4": 26694016,
+      "still": 2769941
+     }
+    },
+    {
+     "n": 8,
+     "label": "Silver",
+     "file": "Point Wave 08 - Silver",
+     "secs": 10,
+     "bytes": {
+      "prores": 136746317,
+      "mp4": 26770479,
+      "still": 2521484
+     }
+    },
+    {
+     "n": 9,
+     "label": "Gilded",
+     "file": "Point Wave 09 - Gilded",
+     "secs": 10,
+     "bytes": {
+      "prores": 136708603,
+      "mp4": 25709230,
+      "still": 2769478
+     }
+    },
+    {
+     "n": 10,
+     "label": "Ultraviolet",
+     "file": "Point Wave 10 - Ultraviolet",
+     "secs": 10,
+     "bytes": {
+      "prores": 136674461,
+      "mp4": 26217455,
+      "still": 3676756
+     }
+    }
+   ],
+   "zip": {
+    "prores": 1397483472,
+    "mp4": 292803338
+   }
+  },
+  {
+   "slug": "prism",
+   "name": "Prism",
+   "family": "form",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Original",
+     "file": "Prism 01 - Original",
+     "secs": 20,
+     "bytes": {
+      "prores": 273656348,
+      "mp4": 51280039,
+      "still": 3312289
+     }
+    },
+    {
+     "n": 2,
+     "label": "Ultraviolet",
+     "file": "Prism 02 - Ultraviolet",
+     "secs": 20,
+     "bytes": {
+      "prores": 273672627,
+      "mp4": 51385842,
+      "still": 3669659
+     }
+    },
+    {
+     "n": 3,
+     "label": "Ember",
+     "file": "Prism 03 - Ember",
+     "secs": 20,
+     "bytes": {
+      "prores": 273656905,
+      "mp4": 51281062,
+      "still": 3566746
+     }
+    },
+    {
+     "n": 4,
+     "label": "Tide",
+     "file": "Prism 04 - Tide",
+     "secs": 20,
+     "bytes": {
+      "prores": 273651452,
+      "mp4": 51011985,
+      "still": 3584486
+     }
+    },
+    {
+     "n": 5,
+     "label": "Crimson",
+     "file": "Prism 05 - Crimson",
+     "secs": 20,
+     "bytes": {
+      "prores": 273555603,
+      "mp4": 50957112,
+      "still": 3676081
+     }
+    },
+    {
+     "n": 6,
+     "label": "Lilac Mint",
+     "file": "Prism 06 - Lilac Mint",
+     "secs": 20,
+     "bytes": {
+      "prores": 273625646,
+      "mp4": 51452381,
+      "still": 3439996
+     }
+    },
+    {
+     "n": 7,
+     "label": "Gilded",
+     "file": "Prism 07 - Gilded",
+     "secs": 20,
+     "bytes": {
+      "prores": 273681514,
+      "mp4": 50999161,
+      "still": 3566696
+     }
+    },
+    {
+     "n": 8,
+     "label": "Aurora",
+     "file": "Prism 08 - Aurora",
+     "secs": 20,
+     "bytes": {
+      "prores": 273621473,
+      "mp4": 51784522,
+      "still": 3586921
+     }
+    },
+    {
+     "n": 9,
+     "label": "Cobalt",
+     "file": "Prism 09 - Cobalt",
+     "secs": 20,
+     "bytes": {
+      "prores": 273546781,
+      "mp4": 50944172,
+      "still": 3609336
+     }
+    },
+    {
+     "n": 10,
+     "label": "Rosewater",
+     "file": "Prism 10 - Rosewater",
+     "secs": 20,
+     "bytes": {
+      "prores": 273695644,
+      "mp4": 51026774,
+      "still": 3558376
+     }
+    }
+   ],
+   "zip": {
+    "prores": 2771937749,
+    "mp4": 547696526
+   }
+  },
+  {
+   "slug": "reeded-cross",
+   "name": "Reeded Cross",
+   "family": "form",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Ember",
+     "file": "Reeded Cross 01 - Ember",
+     "secs": 20,
+     "bytes": {
+      "prores": 273494480,
+      "mp4": 51141952,
+      "still": 2779346
+     }
+    },
+    {
+     "n": 2,
+     "label": "Gilded",
+     "file": "Reeded Cross 02 - Gilded",
+     "secs": 20,
+     "bytes": {
+      "prores": 273528887,
+      "mp4": 50743881,
+      "still": 3566780
+     }
+    },
+    {
+     "n": 3,
+     "label": "Crimson",
+     "file": "Reeded Cross 03 - Crimson",
+     "secs": 20,
+     "bytes": {
+      "prores": 273704770,
+      "mp4": 51042696,
+      "still": 3676598
+     }
+    },
+    {
+     "n": 4,
+     "label": "Cobalt",
+     "file": "Reeded Cross 04 - Cobalt",
+     "secs": 20,
+     "bytes": {
+      "prores": 273602174,
+      "mp4": 51153915,
+      "still": 3534921
+     }
+    },
+    {
+     "n": 5,
+     "label": "Tide",
+     "file": "Reeded Cross 05 - Tide",
+     "secs": 20,
+     "bytes": {
+      "prores": 273604952,
+      "mp4": 51090070,
+      "still": 3490887
+     }
+    },
+    {
+     "n": 6,
+     "label": "Orchid",
+     "file": "Reeded Cross 06 - Orchid",
+     "secs": 20,
+     "bytes": {
+      "prores": 273505815,
+      "mp4": 51460113,
+      "still": 3537021
+     }
+    },
+    {
+     "n": 7,
+     "label": "Rosewater",
+     "file": "Reeded Cross 07 - Rosewater",
+     "secs": 20,
+     "bytes": {
+      "prores": 273587489,
+      "mp4": 51363892,
+      "still": 3443291
+     }
+    },
+    {
+     "n": 8,
+     "label": "Verdant",
+     "file": "Reeded Cross 08 - Verdant",
+     "secs": 20,
+     "bytes": {
+      "prores": 273597607,
+      "mp4": 51301308,
+      "still": 3436196
+     }
+    },
+    {
+     "n": 9,
+     "label": "Silver",
+     "file": "Reeded Cross 09 - Silver",
+     "secs": 20,
+     "bytes": {
+      "prores": 273602968,
+      "mp4": 50951422,
+      "still": 3267711
+     }
+    },
+    {
+     "n": 10,
+     "label": "Indigo Flame",
+     "file": "Reeded Cross 10 - Indigo Flame",
+     "secs": 20,
+     "bytes": {
+      "prores": 273599074,
+      "mp4": 51153954,
+      "still": 3539521
+     }
+    }
+   ],
+   "zip": {
+    "prores": 2770104202,
+    "mp4": 545678909
+   }
+  },
+  {
+   "slug": "swirl",
+   "name": "Swirl",
+   "family": "flow",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Deep Sea",
+     "file": "Swirl 01 - Deep Sea",
+     "secs": 10,
+     "bytes": {
+      "prores": 136783432,
+      "mp4": 25664498,
+      "still": 3411510
+     }
+    },
+    {
+     "n": 2,
+     "label": "Dusk · Reeded",
+     "file": "Swirl 02 - Dusk · Reeded",
+     "secs": 10,
+     "bytes": {
+      "prores": 136766051,
+      "mp4": 26354060,
+      "still": 3446792
+     }
+    },
+    {
+     "n": 3,
+     "label": "Silver",
+     "file": "Swirl 03 - Silver",
+     "secs": 10,
+     "bytes": {
+      "prores": 136771797,
+      "mp4": 26812946,
+      "still": 2815026
+     }
+    },
+    {
+     "n": 4,
+     "label": "Copper (variation)",
+     "file": "Swirl 04 - Copper (variation)",
+     "secs": 10,
+     "bytes": {
+      "prores": 136791808,
+      "mp4": 26078872,
+      "still": 3128797
+     }
+    },
+    {
+     "n": 5,
+     "label": "Nordic (variation)",
+     "file": "Swirl 05 - Nordic (variation)",
+     "secs": 10,
+     "bytes": {
+      "prores": 136805618,
+      "mp4": 26565424,
+      "still": 3228237
+     }
+    },
+    {
+     "n": 6,
+     "label": "Gilded (variation)",
+     "file": "Swirl 06 - Gilded (variation)",
+     "secs": 10,
+     "bytes": {
+      "prores": 136777867,
+      "mp4": 25772584,
+      "still": 3276040
+     }
+    },
+    {
+     "n": 7,
+     "label": "Plum (variation)",
+     "file": "Swirl 07 - Plum (variation)",
+     "secs": 10,
+     "bytes": {
+      "prores": 136789805,
+      "mp4": 25889315,
+      "still": 3243318
+     }
+    },
+    {
+     "n": 8,
+     "label": "Voltage (variation)",
+     "file": "Swirl 08 - Voltage (variation)",
+     "secs": 10,
+     "bytes": {
+      "prores": 136770149,
+      "mp4": 25703551,
+      "still": 3265051
+     }
+    },
+    {
+     "n": 9,
+     "label": "Orchid (variation)",
+     "file": "Swirl 09 - Orchid (variation)",
+     "secs": 10,
+     "bytes": {
+      "prores": 136798342,
+      "mp4": 25907774,
+      "still": 3405383
+     }
+    },
+    {
+     "n": 10,
+     "label": "Verdant (variation)",
+     "file": "Swirl 10 - Verdant (variation)",
+     "secs": 10,
+     "bytes": {
+      "prores": 136778474,
+      "mp4": 26523700,
+      "still": 2899494
+     }
+    }
+   ],
+   "zip": {
+    "prores": 1399956269,
+    "mp4": 293395590
+   }
+  },
+  {
+   "slug": "tessera",
+   "name": "Tessera",
+   "family": "form",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Original",
+     "file": "Tessera 01 - Original",
+     "secs": 10,
+     "bytes": {
+      "prores": 135799903,
+      "mp4": 25614702,
+      "still": 2825849
+     }
+    },
+    {
+     "n": 2,
+     "label": "Rosewater",
+     "file": "Tessera 02 - Rosewater",
+     "secs": 10,
+     "bytes": {
+      "prores": 136618886,
+      "mp4": 25736363,
+      "still": 3513202
+     }
+    },
+    {
+     "n": 3,
+     "label": "Aurora",
+     "file": "Tessera 03 - Aurora",
+     "secs": 10,
+     "bytes": {
+      "prores": 135284667,
+      "mp4": 26263491,
+      "still": 3528879
+     }
+    },
+    {
+     "n": 4,
+     "label": "Ember",
+     "file": "Tessera 04 - Ember",
+     "secs": 10,
+     "bytes": {
+      "prores": 136348476,
+      "mp4": 26146043,
+      "still": 3487657
+     }
+    },
+    {
+     "n": 5,
+     "label": "Plum",
+     "file": "Tessera 05 - Plum",
+     "secs": 10,
+     "bytes": {
+      "prores": 135887407,
+      "mp4": 25536072,
+      "still": 3474180
+     }
+    },
+    {
+     "n": 6,
+     "label": "Dusk",
+     "file": "Tessera 06 - Dusk",
+     "secs": 10,
+     "bytes": {
+      "prores": 136538409,
+      "mp4": 25610079,
+      "still": 3495096
+     }
+    },
+    {
+     "n": 7,
+     "label": "Oxblood",
+     "file": "Tessera 07 - Oxblood",
+     "secs": 10,
+     "bytes": {
+      "prores": 135929944,
+      "mp4": 25891838,
+      "still": 3566044
+     }
+    },
+    {
+     "n": 8,
+     "label": "Silver",
+     "file": "Tessera 08 - Silver",
+     "secs": 10,
+     "bytes": {
+      "prores": 136691988,
+      "mp4": 25662953,
+      "still": 3332202
+     }
+    },
+    {
+     "n": 9,
+     "label": "Gilded",
+     "file": "Tessera 09 - Gilded",
+     "secs": 10,
+     "bytes": {
+      "prores": 135462606,
+      "mp4": 25951276,
+      "still": 3514901
+     }
+    },
+    {
+     "n": 10,
+     "label": "Indigo Flame",
+     "file": "Tessera 10 - Indigo Flame",
+     "secs": 10,
+     "bytes": {
+      "prores": 136682690,
+      "mp4": 26295749,
+      "still": 3513051
+     }
+    }
+   ],
+   "zip": {
+    "prores": 1395499127,
+    "mp4": 292962657
+   }
+  },
+  {
+   "slug": "ultraviolet-panels",
+   "name": "Ultraviolet Panels",
+   "family": "glass",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Original",
+     "file": "Ultraviolet Panels 01 - Original",
+     "secs": 10,
+     "bytes": {
+      "prores": 136688467,
+      "mp4": 26126949,
+      "still": 3270748
+     }
+    },
+    {
+     "n": 2,
+     "label": "Plum",
+     "file": "Ultraviolet Panels 02 - Plum",
+     "secs": 10,
+     "bytes": {
+      "prores": 136715128,
+      "mp4": 26246261,
+      "still": 3075865
+     }
+    },
+    {
+     "n": 3,
+     "label": "Voltage",
+     "file": "Ultraviolet Panels 03 - Voltage",
+     "secs": 10,
+     "bytes": {
+      "prores": 136686144,
+      "mp4": 26570004,
+      "still": 3167312
+     }
+    },
+    {
+     "n": 4,
+     "label": "Crimson",
+     "file": "Ultraviolet Panels 04 - Crimson",
+     "secs": 10,
+     "bytes": {
+      "prores": 136778712,
+      "mp4": 26411704,
+      "still": 3423619
+     }
+    },
+    {
+     "n": 5,
+     "label": "Tide",
+     "file": "Ultraviolet Panels 05 - Tide",
+     "secs": 10,
+     "bytes": {
+      "prores": 136698496,
+      "mp4": 26894425,
+      "still": 3270117
+     }
+    },
+    {
+     "n": 6,
+     "label": "Verdant",
+     "file": "Ultraviolet Panels 06 - Verdant",
+     "secs": 10,
+     "bytes": {
+      "prores": 136725751,
+      "mp4": 26284294,
+      "still": 2971869
+     }
+    },
+    {
+     "n": 7,
+     "label": "Gilded",
+     "file": "Ultraviolet Panels 07 - Gilded",
+     "secs": 10,
+     "bytes": {
+      "prores": 136698097,
+      "mp4": 26255232,
+      "still": 3244397
+     }
+    },
+    {
+     "n": 8,
+     "label": "Oxblood",
+     "file": "Ultraviolet Panels 08 - Oxblood",
+     "secs": 10,
+     "bytes": {
+      "prores": 136761681,
+      "mp4": 26251251,
+      "still": 3323152
+     }
+    },
+    {
+     "n": 9,
+     "label": "Infrared",
+     "file": "Ultraviolet Panels 09 - Infrared",
+     "secs": 10,
+     "bytes": {
+      "prores": 136700489,
+      "mp4": 25994097,
+      "still": 3321041
+     }
+    },
+    {
+     "n": 10,
+     "label": "Saffron",
+     "file": "Ultraviolet Panels 10 - Saffron",
+     "secs": 10,
+     "bytes": {
+      "prores": 136718914,
+      "mp4": 26028955,
+      "still": 3418852
+     }
+    }
+   ],
+   "zip": {
+    "prores": 1399662813,
+    "mp4": 295554046
+   }
+  },
+  {
+   "slug": "verdant-halftone",
+   "name": "Verdant Halftone",
+   "family": "form",
+   "loops": [
+    {
+     "n": 1,
+     "label": "Original",
+     "file": "Verdant Halftone 01 - Original",
+     "secs": 10,
+     "bytes": {
+      "prores": 135309063,
+      "mp4": 25388947,
+      "still": 3541020
+     }
+    },
+    {
+     "n": 2,
+     "label": "Tide",
+     "file": "Verdant Halftone 02 - Tide",
+     "secs": 10,
+     "bytes": {
+      "prores": 136789981,
+      "mp4": 24528572,
+      "still": 3675725
+     }
+    },
+    {
+     "n": 3,
+     "label": "Rosewater",
+     "file": "Verdant Halftone 03 - Rosewater",
+     "secs": 10,
+     "bytes": {
+      "prores": 135255187,
+      "mp4": 24550445,
+      "still": 3689773
+     }
+    },
+    {
+     "n": 4,
+     "label": "Deep Sea",
+     "file": "Verdant Halftone 04 - Deep Sea",
+     "secs": 10,
+     "bytes": {
+      "prores": 136778251,
+      "mp4": 24990967,
+      "still": 3793798
+     }
+    },
+    {
+     "n": 5,
+     "label": "Midnight Rose",
+     "file": "Verdant Halftone 05 - Midnight Rose",
+     "secs": 10,
+     "bytes": {
+      "prores": 136054418,
+      "mp4": 25777531,
+      "still": 3718660
+     }
+    },
+    {
+     "n": 6,
+     "label": "Voltage",
+     "file": "Verdant Halftone 06 - Voltage",
+     "secs": 10,
+     "bytes": {
+      "prores": 136761512,
+      "mp4": 25404673,
+      "still": 3796308
+     }
+    },
+    {
+     "n": 7,
+     "label": "Jade Night",
+     "file": "Verdant Halftone 07 - Jade Night",
+     "secs": 10,
+     "bytes": {
+      "prores": 135729919,
+      "mp4": 26115827,
+      "still": 3609165
+     }
+    },
+    {
+     "n": 8,
+     "label": "Cobalt",
+     "file": "Verdant Halftone 08 - Cobalt",
+     "secs": 10,
+     "bytes": {
+      "prores": 136772146,
+      "mp4": 24741271,
+      "still": 3848134
+     }
+    },
+    {
+     "n": 9,
+     "label": "Ember Teal",
+     "file": "Verdant Halftone 09 - Ember Teal",
+     "secs": 10,
+     "bytes": {
+      "prores": 135257206,
+      "mp4": 25101902,
+      "still": 3716759
+     }
+    },
+    {
+     "n": 10,
+     "label": "Nordic",
+     "file": "Verdant Halftone 10 - Nordic",
+     "secs": 10,
+     "bytes": {
+      "prores": 136825824,
+      "mp4": 24921632,
+      "still": 3619430
+     }
+    }
+   ],
+   "zip": {
+    "prores": 1398546145,
+    "mp4": 288534345
+   }
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+  "lineup": [
+    "halo",
+    "current",
+    "flow",
+    "lilac-mint-flutes",
+    "line-waves",
+    "grooves",
+    "swirl",
+    "tessera",
+    "ultraviolet-panels",
+    "reeded-cross",
+    "verdant-halftone",
+    "dot-globe",
+    "point-wave",
+    "mesh",
+    "halftone-horizon",
+    "liquid-chrome"
+  ],
+  "home": [
+    "halo",
+    "flow",
+    "lilac-mint-flutes",
+    "tessera",
+    "verdant-halftone",
+    "ultraviolet-panels",
+    "grooves",
+    "line-waves"
+  ],
+  "covers": {
+    "tessera": 7,
+    "line-waves": 4,
+    "grooves": 3,
+    "ultraviolet-panels": 2
+  },
+  "filters": [
+    {
+      "id": "glow",
+      "label": "Glow",
+      "hint": "Soft light and color"
+    },
+    {
+      "id": "flow",
+      "label": "Flowing",
+      "hint": "Liquid, moving color"
+    },
+    {
+      "id": "glass",
+      "label": "Glass",
+      "hint": "Ribbed and fluted glass"
+    },
+    {
+      "id": "texture",
+      "label": "Texture",
+      "hint": "Halftone, mosaic and print"
+    },
+    {
+      "id": "shapes",
+      "label": "Shapes",
+      "hint": "3D forms, dots and lines"
+    }
+  ],
+  "tags": {
+    "halo": [
+      "glow",
+      "shapes"
+    ],
+    "current": [
+      "flow"
+    ],
+    "flow": [
+      "flow"
+    ],
+    "lilac-mint-flutes": [
+      "glass"
+    ],
+    "line-waves": [
+      "glow"
+    ],
+    "grooves": [
+      "glass"
+    ],
+    "swirl": [
+      "flow"
+    ],
+    "tessera": [
+      "texture"
+    ],
+    "ultraviolet-panels": [
+      "glass"
+    ],
+    "verdant-halftone": [
+      "texture"
+    ],
+    "dot-globe": [
+      "shapes"
+    ],
+    "point-wave": [
+      "shapes"
+    ],
+    "mesh": [
+      "glow"
+    ],
+    "mesh-glass": [
+      "glass"
+    ],
+    "mesh-glow": [
+      "glow"
+    ],
+    "mesh-print": [
+      "texture"
+    ],
+    "reeded-cross": [
+      "glass",
+      "glow"
+    ],
+    "halftone-horizon": [
+      "texture"
+    ],
+    "liquid-chrome": [
+      "flow"
+    ],
+    "prism": [
+      "glow"
+    ]
+  },
+  "plans": {
+    "basic": {
+      "name": "Basic",
+      "price": 400,
+      "period": "per year",
+      "blurb": "Access to the Studio and Altar Render at 1080p.",
+      "features": [
+        "Studio access",
+        "Altar Render (Mac + Windows) at 1920×1080",
+        "Every pack in the library",
+        "One church location"
+      ]
+    },
+    "premium": {
+      "name": "Premium",
+      "price": 600,
+      "period": "per year",
+      "blurb": "Access to the Studio and Altar Render at 4K UHD.",
+      "features": [
+        "Studio access",
+        "Altar Render (Mac + Windows) at 4K UHD",
+        "Every pack in the library",
+        "Every campus you run"
+      ]
+    },
+    "pack": {
+      "name": "Single Pack",
+      "price": 200,
+      "period": "one time",
+      "blurb": "One look, every colorway, yours to keep.",
+      "features": [
+        "Every loop in the pack",
+        "ProRes masters, MP4s and stills",
+        "Yours to keep, no subscription"
+      ]
+    },
+    "customSize": {
+      "name": "Custom Screen Size",
+      "price": 500,
+      "period": "per pack",
+      "blurb": "Any pack rendered natively at your screen's exact size.",
+      "features": [
+        "LED walls, ultrawide, vertical, 4K",
+        "Rendered at your exact pixels, not stretched",
+        "Every loop in the pack, ProRes + MP4"
+      ]
+    },
+    "customVisuals": {
+      "name": "Custom Visuals",
+      "price": 3000,
+      "period": "per project",
+      "blurb": "An original look made for your church, series or event.",
+      "features": [
+        "Designed around your brand or series art",
+        "10 seamless loops in your colors",
+        "Stills for slides and socials"
+      ]
+    },
+    "max": {
+      "name": "Max",
+      "price": 0,
+      "period": "per year",
+      "blurb": "Access to the Studio, Altar Live and Altar Render, capped only by your computer.",
+      "features": [
+        "Studio access",
+        "Altar Live (Mac + Windows) for live screens",
+        "Altar Render at any size your computer can handle",
+        "Every pack, every campus"
+      ]
+    }
+  }
+}
